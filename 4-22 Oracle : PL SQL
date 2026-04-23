@@ -544,7 +544,7 @@ END;
               ELSE 값
               END;
               
-              입고 : 이미 저장된 상품 => UPDATE 수량 증ㄱ
+              입고 : 이미 저장된 상품 => UPDATE 수량 증가
                     없는 상품 => INSERT
               출고 : 남아 있는 상품 => UPDATE
                     상품이 없는 경우 => DELETE
